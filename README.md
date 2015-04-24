@@ -20,7 +20,7 @@ then in  **System Variables** prescribes:
 ```
 Path — ;C:\bin
 ```
-where C:\bin – folder, where you are install wget.exe
+where **C:\bin** – folder, where you are install wget.exe
 
 and write in command line
 ```
