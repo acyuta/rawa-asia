@@ -15,3 +15,5 @@ and write in command line
 start start.bat
 ```
 
+Other people who want to download this music, 
+use **list.ls** as link list to download by download manager or by COPY&PASTE (NOT RECOMMEND)
